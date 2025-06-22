@@ -1,0 +1,37 @@
+{
+  "name": "ToiletCoin",
+  "symbol": "TOILET",
+  "description": "ToiletCoin is the meme coin of restoration — flushing frauds, funding real-world giving, and reviving Web3 culture through the FlushVerse.",
+  "seller_fee_basis_points": 0,
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreifmlfh4mruv6og23hlqwn6ehhjq6y4w56slgjnqfd5wxxjzdp3gkq",
+  "attributes": [
+    { "trait_type": "Type", "value": "Meme Utility" },
+    { "trait_type": "Decimals", "value": "6" }
+  ],
+  "collection": {
+    "name": "FlushVerse",
+    "family": "ToiletCoin"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreifmlfh4mruv6og23hlqwn6ehhjq6y4w56slgjnqfd5wxxjzdp3gkq",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6rLf7pR2Rscr1hviDKJCSZ2Trm4yBKPmbZni9GrZRRaf",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "website":  https://toiletcoin.io",
+    "arcade": "https://flushgames.io",
+    "twitter": "https://twitter.com/TheToiletCoin_",
+    "discord": "https://discord.gg/56KbQhde",
+    "explorer": "https://solscan.io/token/6rLf7pR2Rscr1hviDKJCSZ2Trm4yBKPmbZni9GrZRRaf"
+  }
+}

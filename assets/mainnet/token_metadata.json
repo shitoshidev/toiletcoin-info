@@ -1,37 +1,17 @@
 {
   "name": "ToiletCoin",
   "symbol": "TOILET",
-  "description": "ToiletCoin is the meme coin of restoration — flushing frauds, funding real-world giving, and reviving Web3 culture through the FlushVerse.",
-  "seller_fee_basis_points": 0,
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreifohuhv64b67562jgiskbwcmzzkluii6a3c4bqfj4yggumlonovam",
-  "attributes": [
-    { "trait_type": "Type", "value": "Meme Utility" },
-    { "trait_type": "Decimals", "value": "6" }
-  ],
-  "collection": {
-    "name": "FlushVerse",
-    "family": "ToiletCoin"
-  },
-  "properties": {
-    "files": [
-      {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafkreifohuhv64b67562jgiskbwcmzzkluii6a3c4bqfj4yggumlonovam",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "6rLf7pR2Rscr1hviDKJCS2Trm4yBKPMbZni9GrZRRaf",
-        "share": 100
-      }
-    ]
-  },
+  "address": "6rLf7pR2Rscr1hviDKJCS2Trm4yBKPMbZni9GrZRRaf",
+  "chainId": 101,
+  "decimals": 6,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreifohuhv64b67562jgiskbwcmzzkluii6a3c4bqfj4yggumlonovam",
+  "tags": ["meme", "utility", "web3games", "rwa", "rwm"],
   "extensions": {
     "website": "https://toiletcoin.io",
     "arcade": "https://flushgames.io",
     "twitter": "https://twitter.com/theToiletCoin_",
     "discord": "https://discord.gg/56KohQde",
-    "explorer": "https://solscan.io/token/6rLf7pR2Rscr1hviDKJCS2Trm4yBKPMbZni9GrZRRaf"
+    "explorer": "https://solscan.io/token/6rLf7pR2Rscr1hviDKJCS2Trm4yBKPMbZni9GrZRRaf",
+    "description": "ToiletCoin is the meme coin of restoration – flushing frauds, funding real-world giving, and reviving Web3 culture through the FlushVerse. A Real World Meme (RWM) and Real World Asset (RWA) built to restore dignity, reward believers, and clean up the crypto space."
   }
 }

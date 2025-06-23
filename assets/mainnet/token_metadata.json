@@ -22,7 +22,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "6rLf7pR2Rscr1hviDKJCSZ2Trm4yBKPmbZni9GrZRRaf",
+        "address": "6rLf7pR2Rscr1hviDKJCS2Trm4yBKPMbZni9GrZRRaf",
         "share": 100
       }
     ]
@@ -30,8 +30,8 @@
   "extensions": {
     "website": "https://toiletcoin.io",
     "arcade": "https://flushgames.io",
-    "twitter": "https://twitter.com/TheToiletCoin_",
-    "discord": "https://discord.gg/56KbQhde",
-    "explorer": "https://solscan.io/token/6rLf7pR2Rscr1hviDKJCSZ2Trm4yBKPmbZni9GrZRRaf"
+    "twitter": "https://twitter.com/theToiletCoin_",
+    "discord": "https://discord.gg/56KohQde",
+    "explorer": "https://solscan.io/token/6rLf7pR2Rscr1hviDKJCS2Trm4yBKPMbZni9GrZRRaf"
   }
 }

@@ -1,0 +1,9 @@
+Circulating Supply Breakdown (600,000,000 TOILET)
+
+1. Origin Wallet
+   Address: 9EA8UcGxSGGQQRkkVThfHpYoy3GAx74fpY3qS7Kr18mM
+   Amount: 546.11M TOILET
+
+2. Raydium Pool
+   Address: [Raydium LP - no public wallet]
+   Estimated: ~53.89M TOILET

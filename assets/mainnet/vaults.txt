@@ -1,0 +1,5 @@
+Non-Circulating Supply / Vaults (400,000,000 TOILET)
+
+1. FlushVault Wallet (Cold Storage)
+   Address: AdeRnZiQeVXG2ZN24m7vquWHCwrrgRB4bybpVYJNAGQ3
+   Amount: 400M TOILET

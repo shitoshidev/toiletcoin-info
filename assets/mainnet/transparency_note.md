@@ -11,8 +11,8 @@ ToiletCoin ($TOILET) has a fixed total supply of **1,000,000,000 tokens**. We ar
   - Mod 2: `Hs4cQPSbZtgQmQmqTB9Dw2b6jxHR8RoBPvZ3aDHLezDr` – 100,000 TOILET
   - Mod 3: `A7KfFj3rvbNaUaTy9csTvvi1EeFXzbnCQN9xr7N6by2j` – 100,000 TOILET
   - Mod 4: `Bt9KcAFidhQqtqxphVDYmN8UJwiYesDcpurRhFEn9XZu` – 100,000 TOILET
-  - Dev1: `5WmfHHdsnDd9PX7g4gz6BpLfrdTRqoiqW41dYNF8JdwQ` – 500,000 TOILET *(held in reserve)*
-  - Dev2: `7ChZWp9xF1Tcfg9XBv71i6GDbw2UXrF8SVU1uMtrctST` – 250,000 TOILET
+  - Dev1: `5WmfHHdsnDd9PX7g4gz6BpLfrdTRqoiqW41dYNF8JdwQ`  – 500,000 TOILET *(held in reserve)*
+  - Dev2: `7ChZWp9xF1Tcfg9XBv71i6GDbw2UXrF8SVU1uMtrctST`  – 250,000 TOILET
   
 
 ### 🔒 Non-Circulating Supply: 400,000,000 TOILET
